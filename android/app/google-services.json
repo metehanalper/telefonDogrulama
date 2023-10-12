@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "728892627701",
+    "project_id": "telefon-ed143",
+    "storage_bucket": "telefon-ed143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728892627701:android:af19e3c4ee066bf0f243bc",
+        "android_client_info": {
+          "package_name": "com.example.telefon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728892627701-fp54v08077snu6i7u6qs7vktlr181ciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSryOrdInBffcWWiiaDF03o7pBm9NpFfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728892627701-fp54v08077snu6i7u6qs7vktlr181ciq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728892627701-093o387a6rbplur2ssglvjhehn8qivv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.telefon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
